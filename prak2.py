@@ -8,3 +8,6 @@ elif b > a and b > c:
     largest = b
 elif c > a and c > b:
     largest = c
+else: 
+    largest = print("tidak ada angka terbesar")
+
