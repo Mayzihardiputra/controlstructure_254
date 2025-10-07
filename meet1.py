@@ -12,3 +12,5 @@ elif percentage >= 70:
 elif percentage >= 60:
     print("Average Performance")
 
+else:
+    print("Needs Improvement")
